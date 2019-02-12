@@ -670,5 +670,17 @@
     "tags": ["Browser-API", "Side-effect"],
     "repositoryUrl": "https://github.com/infodusha/react-hook-size",
     "importStatement": "import { useSize } from \"react-hook-size\";"
+  },
+  {
+    "name": "useMappedState",
+    "tags": ["State Management", "redux"],
+    "repositoryUrl": "https://github.com/facebookincubator/redux-react-hook/",
+    "importStatement": "import { useMappedState } from \"redux-react-hook\";"
+  },
+  {
+    "name": "useDispatch",
+    "tags": ["State Management", "redux"],
+    "repositoryUrl": "https://github.com/facebookincubator/redux-react-hook/",
+    "importStatement": "import { useDispatch } from \"redux-react-hook\";"
   }
 ]
